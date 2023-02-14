@@ -8,6 +8,8 @@
 
 ## Отчёт FastQC
 
+![fastqc_hw2_1](https://user-images.githubusercontent.com/103137801/218765992-a88498e6-8994-4d66-8338-b6f75e00523e.png)
+
 ## Число ридов
 
 участок | 8cell | epiblast | ICM |
@@ -31,6 +33,31 @@ SRR5836475 - ICM
 
 
 ## M-bias plot
+
+SRR5836473_1 - 8cell read 1
+
+![Bismark M-bias Read 1](https://user-images.githubusercontent.com/103137801/218764759-002055ee-585d-4fd0-adb9-125257daa679.png)
+
+SRR5836473_2 - 8cell read 2
+
+![Bismark M-bias Read 2](https://user-images.githubusercontent.com/103137801/218764895-b07d37dd-0ee4-4389-a78d-94fdcd4f1221.png)
+
+SRR3824222_1 - epiblast read 1
+
+![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/103137801/218765057-d65ab9f7-c1fc-41fa-bb76-9dbd4c98c2a3.png)
+
+SRR3824222_2 - epiblast read 2
+
+![Bismark M-bias Read 2 (1)](https://user-images.githubusercontent.com/103137801/218765183-c1435516-23a6-4089-b723-0d828aaec151.png)
+
+SRR5836475_1 - ICM read 1
+
+![Bismark M-bias Read 1 (2)](https://user-images.githubusercontent.com/103137801/218765636-87e2eb57-367c-4a5d-92c6-6982884ad30c.png)
+
+SRR5836475_2 - ICM read 2
+
+![Bismark M-bias Read 2 (2)](https://user-images.githubusercontent.com/103137801/218765763-4dd8c009-97b9-4ce8-ae7f-4136b8d81876.png)
+
 
 ## Гистограммы митилирования
 
