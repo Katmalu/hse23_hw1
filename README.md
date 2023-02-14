@@ -8,7 +8,16 @@
 
 ## Отчёт FastQC
 
+для образца SRR5836473_1 (8 cell read 1)
+
 ![fastqc_hw2_1](https://user-images.githubusercontent.com/103137801/218765992-a88498e6-8994-4d66-8338-b6f75e00523e.png)
+
+Соотношение оснований ACTG отличается по сравнению с секвенированием ДНК и РНК. Для примера первая картинка соотношение для нашего образца, вторая для SRR3414629 из дз 4
+
+![метилир](https://user-images.githubusercontent.com/103137801/218776498-365f47c2-bf85-4723-945f-b41b155c2aba.png)
+
+![другой](https://user-images.githubusercontent.com/103137801/218776441-81ea8def-bfe6-4cc9-ad8d-3f4bbde9ae0f.png)
+
 
 ## Число ридов
 
