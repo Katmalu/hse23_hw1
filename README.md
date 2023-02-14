@@ -28,6 +28,10 @@
 
 ## Процент дупликации
 
+--- | 8cell | epiblast | ICM |
+--- | --- | --- | --- | 
+процент дупликации| 18.3% | 2.92% | 9.08% |
+
 SRR5836473 - 8cell
 
 ![newplot (1)](https://user-images.githubusercontent.com/103137801/218763864-7a712797-2ec3-48fa-92bc-31febc2528cd.png)
@@ -66,6 +70,9 @@ SRR5836475_1 - ICM read 1
 SRR5836475_2 - ICM read 2
 
 ![Bismark M-bias Read 2 (2)](https://user-images.githubusercontent.com/103137801/218765763-4dd8c009-97b9-4ce8-ae7f-4136b8d81876.png)
+
+
+
 
 
 ## Гистограммы митилирования
