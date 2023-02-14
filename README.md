@@ -13,7 +13,7 @@
 
 ## M-bias plot
 
-## Гистограмма митилирования
+## Гистограммы митилирования
 
 ![8cell](https://user-images.githubusercontent.com/103137801/218759207-ee81611c-c4c7-4fda-8cec-083f29793641.png)
 
