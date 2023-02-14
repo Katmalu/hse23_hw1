@@ -1,0 +1,47 @@
+[cell8_coverage]
+file = /content/cell8_coverage.bigWig
+height = 4
+title = cell8_coverage
+min_value = 0
+max_value = 200
+file_type = bigwig
+
+[cell8_methylation]
+file = /content/cell8_methylation.bigWig
+height = 4
+title = cell8_methylation
+min_value = 0
+max_value = 200
+file_type = bigwig
+
+[epiblast_coverage]
+file = /content/epiblast_coverage.bigWig
+height = 4
+title = epiblast_coverage
+min_value = 0
+max_value = 200
+file_type = bigwig
+
+[epiblast_methylation]
+file = /content/epiblast_methylation.bigWig
+height = 4
+title = epiblast_methylation
+min_value = 0
+max_value = 200
+file_type = bigwig
+
+[ICM_coverage]
+file = /content/ICM_coverage.bigWig
+height = 4
+title = ICM_coverage
+min_value = 0
+max_value = 200
+file_type = bigwig
+
+[ICM_methylation]
+file = /content/ICM_methylation.bigWig
+height = 4
+title = ICM_methylation
+min_value = 0
+max_value = 200
+file_type = bigwig
